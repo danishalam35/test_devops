@@ -13,3 +13,10 @@ Rollback Plan:
 2. Restore the last known good release.
 3. Verify application health.
 4. Notify the team.
+
+Production Verification:
+1. Confirm the approved release version.
+2. Verify deployment health checks.
+3. Review application logs and monitoring alerts.
+4. Confirm the service is working as expected.
+5. Record the deployment result.
