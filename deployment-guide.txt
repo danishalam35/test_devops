@@ -1,0 +1,15 @@
+PROJECT: DevOps Release Demo
+ENVIRONMENT: Development
+
+Deployment Steps:
+1. Verify the application version.
+2. Validate the deployment configuration.
+3. Deploy to the development environment.
+4. Verify application health.
+5. Check logs for errors.
+
+Rollback Plan:
+1. Stop the failed deployment.
+2. Restore the last known good release.
+3. Verify application health.
+4. Notify the team.
